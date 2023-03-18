@@ -1,0 +1,200 @@
+.input100 {
+    font-family: Poppins-Medium;
+    font-size: 15px;
+    line-height: 1.5;
+    display: block;
+    width: 190px;
+    background: #e6e6e6;
+    height: 50px;
+    border-radius: 25px;
+    padding: 0 30px 0 68px;
+    border: none;
+    outline: none;
+   margin: 5px;
+   
+}
+.an-1{
+    border: none;
+    border-radius: 10px;
+    width: 900px;
+    height: 800px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.taikhoan{
+    display: flex;
+    align-items: center;
+    border:solid;
+    background: #e6e6e6;
+    border-radius:25px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+    flex-direction: row-reverse;
+}
+.email{
+    display: flex;
+    align-items: center;
+    border:solid;
+    background: #e6e6e6;
+    border-radius:25px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+    flex-direction: row-reverse;
+  
+}
+.tennhap{
+    display: flex;
+    align-items: center;
+    border:solid;
+    background: #e6e6e6;
+    border-radius:25px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+    flex-direction: row-reverse;
+   
+}
+.matkhau{
+    display: flex;
+    align-items: center;
+    border:solid;
+    background: #e6e6e6;
+    border-radius:25px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+    flex-direction: row-reverse;
+}
+.tendangnhap{
+    display: flex;
+    align-items: center;
+    border:solid;
+    background: #e6e6e6;
+    border-radius:25px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    margin: 10px;
+    padding: 5px;
+    flex-direction: row-reverse;
+}
+
+.an-1-1{
+    padding: 60px;
+}
+.an-1{
+    background-color: white;
+    margin-top: -1px;
+    margin-left: 50px;
+}
+.nut button img{
+    width: 20px;
+    height: 20px;
+    
+}
+.nut button{
+    border: none;
+    border-radius: 100000000px;
+    cursor: pointer;
+
+}
+.an-1-1{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.chinh img {
+    margin: 50px;
+}
+h1{
+    margin: 0;
+    padding-top:54px ;
+    padding-bottom: 34px;
+    margin-left: 128px;
+}
+.dangki {
+    margin-top: 3px;
+    width: 358px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: green;
+    margin-bottom: 20px;
+    margin-left: 11px;
+}
+.nut  button:hover{
+    background-color: rgb(89, 84, 84);
+    
+}
+.button button:hover{
+    background-color:black;
+    color: white;
+}
+.quetaikhoan{
+    display: flex;
+    align-items: center;
+    margin-left: 76px;
+}
+ .txt1{
+    padding-left: 48px;
+    color: #999999;
+    font-family: Poppins-Regular;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.txt2{
+    color: #666666;
+    font-family: Poppins-Regular;
+    font-size: 13px;
+    direction: initial;
+    cursor: pointer;
+}
+.nut{
+    padding-left: 82px;
+    margin-left: 80px;
+}
+.dacotaikhoan{
+    padding-top: 40px;
+    padding-left: 67px;
+    margin-left: 85px;
+    text-decoration: none;
+    color: #666666;
+}
+.an11{
+     background-image: linear-gradient(-135deg, #c850c0, #4158d0) ;
+    padding: 20px;
+    display: flex;  
+    justify-content:center;
+    min-height: 100vh;
+    align-items: center;
+}
+.an-1-1-1 img{
+    width: 32px;
+    height: 32px;
+}
+.quetaikhoan p:hover{
+ color: #57b846;
+}
+.dacotaikhoan a:hover{
+    color: #57b846;
+}
+body{
+    margin: 0;
+}
+
+@media only screen and(max-width: 768px) {
+    .chinh {
+        float: none;
+    
+    }
+}
